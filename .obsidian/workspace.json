@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cc491c0259e0253",
+            "id": "1ccdfc47a606ef2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPRING/SPRING SECURITY/1. ARCHITECTURE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPRING/SPRING SECURITY/1. ARCHITECTURE.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPRING/SPRING SECURITY/1. ARCHITECTURE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPRING/SPRING SECURITY/1. ARCHITECTURE.md"
+                "file": "README.md"
               }
             }
           },
@@ -174,13 +174,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cc491c0259e0253",
+  "active": "1ccdfc47a606ef2f",
   "lastOpenFiles": [
+    "SPRING/SPRING SECURITY/1. ARCHITECTURE.md",
+    "README.md",
     "New folder",
     "2024-08-06.md",
     "2024-08-05.md",
     "SPRING/SPRING SECURITY/0. KEY KNOWLEDGE.md",
-    "SPRING/SPRING SECURITY/1. ARCHITECTURE.md",
     "SPRING/SPRING DATA/SPRING DATA JPA.md",
     "SPRING/SPRING DATA/SPRING DATA REDIS.md",
     "SPRING/SPRING DATA/Untitled.canvas",
